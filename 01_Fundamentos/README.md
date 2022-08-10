@@ -33,9 +33,10 @@ También hay un par de factores que hacen que Python sea excelente para el apren
 
 ## Curso de Ciencia de Datos usando R
 
-Junto a OpenSalud LAB realizamos un curso muy completo para aprender desde los más básico a programar y usar R para desarrollar proyectos de Ciencia de Datos en salud. Muchas de las cosas que se abordan ahí, aplican para este repositorio, pues muchos conceptos de base son de la ciencias de la programación y no dependen de un lenguaje especial, aún cuando depende de éste el cómo se implementa (se escribe y despliega).\
+Junto a OpenSalud LAB realizamos un curso muy completo para aprender desde los más básico a programar y usar R para desarrollar proyectos de Ciencia de Datos en salud. Muchas de las cosas que se abordan ahí, aplican para este repositorio, pues muchos conceptos de base son de la ciencias de la programación y no dependen de un lenguaje especial, aún cuando depende de éste el cómo se implementa (se escribe y despliega).
 
 Si quieres mirar ese curso, puedes verlo en el siguiente enlace: [Bootcamp Ciencia de Datos](https://github.com/opensaludlab/ciencia_datos)
+
 Es totalmente gratis. 
 
 
