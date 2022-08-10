@@ -1,3 +1,5 @@
+<img src="img/python.png" alt="Python logo" title="Aprendiendo Python" />
+
 # 🐍 Aprendiendo Python
 
 Hola!!! Bienvenido/a 😉
