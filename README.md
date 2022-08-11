@@ -22,7 +22,7 @@ Pero...
 - Muchas ganas de aprender
 
 
-## Parte por aquí (Get started) 👇
+## ✅ Parte por aquí (Get started)
 
 [Fundamentos](https://github.com/paulovillarroel/aprendiendo_python/tree/main/01_Fundamentos)
 
