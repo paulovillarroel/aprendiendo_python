@@ -1,5 +1,7 @@
 <img src="img/python.png" alt="Python logo" title="Aprendiendo Python" />
 
+[![jhc twitter](https://img.shields.io/badge/Twitter-@chazkon-00aced.svg?style=flat&logo=twitter)](https://twitter.com/chazkon)
+
 # 🐍 Aprendiendo Python
 
 Hola!!! Bienvenido/a 😉
@@ -14,7 +16,13 @@ Pero...
 ➡️ Para mantenerte al tanto de las actualizaciones, te recomiendo que le hagas un fork a este repo, te lo clones y le marques la STAR ⭐ para darle amor al proyecto. Si no sabes de qué diablos te estoy hablando, no te preocupes. Los iré explicando más adelante. 
 
 
-Nos vemos!!!
+## Requisistos
 
-Sígueme en Twitter para mantenerte al tanto de este proyecto [![jhc twitter](https://img.shields.io/badge/Twitter-@chazkon-00aced.svg?style=flat&logo=twitter)](https://twitter.com/chazkon)
+- Tener computador e internet
+- Muchas ganas de aprender
+
+
+## Parte por aquí (Get started) 👇
+
+[Fundamentos](https://github.com/paulovillarroel/aprendiendo_python/tree/main/01_Fundamentos)
 
