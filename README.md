@@ -24,5 +24,9 @@ Pero...
 
 ## ✅ Parte por aquí (Get started)
 
-[Fundamentos](https://github.com/paulovillarroel/aprendiendo_python/tree/main/01_Fundamentos)
+1. [Fundamentos](https://github.com/paulovillarroel/aprendiendo_python/tree/main/01_Fundamentos)
 
+
+## Contribuciones
+
+Puedes hacer una PR o crear un [issue](https://github.com/paulovillarroel/aprendiendo_python/issues) sin problemas.
