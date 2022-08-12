@@ -73,24 +73,24 @@ Esto  es básicamente que se puede usar para varios propósitos.
 
 Algunos ejemplos en donde se ha usado Python (en mayor o menor medida) son:
 
-Dropbox, UBER, Spotify o Pintrest Si.
-Aplicaciones de Internet (BitTorrent, Jogger Publishing Assistant, TheCircle, TwistedMatrix)
-3D CAD/CAM (FreeCAD, Fandango, Blender, Vintech RCAM)
-Aplicaciones Empresariales (Odoo, Tryton, Picalo, LinOTP 2, RESTx)
-Aplicaciones de Imagen (Gnofract 4D, Gogh, imgSeek, MayaVi, VPython)
-Aplicaciones Móviles (Aarlogic C05/3, AppBackup, Pyroute)
-Aplicaciones de Oficina (calibre, faces, Notalon, pyspread)
-Administradores de Información Personal (BitPim, Narval, Prioritise, Task Coach, WikidPad)
+- Dropbox, UBER, Spotify o Pintrest.
+- Aplicaciones de Internet (BitTorrent, Jogger Publishing Assistant, TheCircle, TwistedMatrix)
+- 3D CAD/CAM (FreeCAD, Fandango, Blender, Vintech RCAM)
+- Aplicaciones Empresariales (Odoo, Tryton, Picalo, LinOTP 2, RESTx)
+- Aplicaciones de Imagen (Gnofract 4D, Gogh, imgSeek, MayaVi, VPython)
+- Aplicaciones Móviles (Aarlogic C05/3, AppBackup, Pyroute)
+- Aplicaciones de Oficina (calibre, faces, Notalon, pyspread)
+- Administradores de Información Personal (BitPim, Narval, Prioritise, Task Coach, WikidPad)
 (Fuente: https://wiki.python.org/moin/PythonProjects)
 
 Pyhton puede ser utilizado en:
 
-Desarrollo Web (como los frameworks Django y Pyramid, micro-frameworks Flask y Bottle)
-Computación científica y numérica (por ejemplo, SciPy, una colección de paquetes con fines matemáticos, científicos y de ingeniería; Ipython, un shell interactivo que permite la edición y grabación de sesiones de trabajo)
-Educación 
-GUIs de Escritorio (por ejemplo, wxWidgets, Kivy, Qt)
-Desarrollo de software (control de compilación, gestión y pruebas: Scons, Buildbot, Apache Gump, Roundup, Trac)
-Aplicaciones empresariales (ERP y sistemas de comercio electrónico: Odoo, Tryton)
+- Desarrollo Web (como los frameworks Django y Pyramid, micro-frameworks Flask y Bottle)
+- Computación científica y numérica (por ejemplo, SciPy, una colección de paquetes con fines matemáticos, científicos y de ingeniería; Ipython, un shell interactivo que permite la edición y grabación de sesiones de trabajo)
+- Educación 
+- GUIs de Escritorio (por ejemplo, wxWidgets, Kivy, Qt)
+- Desarrollo de software (control de compilación, gestión y pruebas: Scons, Buildbot, Apache Gump, Roundup, Trac)
+- Aplicaciones empresariales (ERP y sistemas de comercio electrónico: Odoo, Tryton)
 (Fuente: https://www.python.org/about/apps)
 
 
@@ -133,4 +133,4 @@ Python 3 es la versión más nueva y actual del lenguaje.
 Estas dos versiones de Python no son compatibles entre sí. Las secuencias de comandos de Python 2 no se ejecutarán en un entorno de Python 3 y viceversa, por lo que si deseas que un intérprete de Python 3 ejecute el código Python 2 anterior, la única solución posible es volver a escribirlo o revisarlo qué partes se pueder reutilizar. Pero el migrar del 2 al 3 es demasiado difícil, consume mucho tiempo, es demasiado caro y es demasiado arriesgado migrar una aplicación Python 2 antigua a una nueva plataforma.
 
 
-En defiinitiva, si estamos partiendo a estudiar y aprender Python, la mejor opción es hacerlo con la versión 3.
+En defiinitiva, si estamos partiendo a estudiar y aprender Python, la mejor opción es hacerlo con la versión 3. Y es la que usaré.
