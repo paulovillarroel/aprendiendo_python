@@ -23,6 +23,7 @@ Para mantenerte al tanto de las actualizaciones, te recomiendo que le hagas un f
 
 - Tener computador e internet
 - Muchas ganas de aprender
+- Paciencia (en espacial si nunca has tocado una línea de código)
 
 
 ## ✅ Parte por aquí (Get started)
@@ -34,3 +35,8 @@ Para mantenerte al tanto de las actualizaciones, te recomiendo que le hagas un f
 ## Contribuciones
 
 Puedes hacer una PR o crear un [issue](https://github.com/paulovillarroel/aprendiendo_python/issues) sin problemas.
+
+
+## ¿Cada cuánto tiempo subiré material?
+
+No lo sé. Iré publicando en la medida que vaya estudiando cosas y me de el tiempo de subirlos. Así que puede ser varias veces al día o de pronto no tan seguido. Pero seguro que semana a semana va a haber nuevo material disponible. Y conociéndome, puede que haya días que me vuelva un poco loco subiendo cosas 🤣

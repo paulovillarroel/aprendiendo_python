@@ -56,7 +56,3 @@ Y disfrutar el viaje!!
 
 Lo primero es lo primero y en esta sección trataré conceptos bastante generales de programación e introducir paulatinamente Python.
 
-
-## ¿Cada cuánto tiempo subiré material?
-
-No lo sé. Iré publicando en la medida que vaya estudiando cosas y me de el tiempo de subirlos. Así que puede ser varias veces al día o de pronto no tan seguido. Pero seguro que semana a semana va a haber nuevo material disponible. Y conociéndome, puede que haya días que me vuelva un poco loco subiendo cosas 🤣
