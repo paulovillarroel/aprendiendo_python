@@ -94,6 +94,9 @@ Aplicaciones empresariales (ERP y sistemas de comercio electrónico: Odoo, Tryto
 (Fuente: https://www.python.org/about/apps)
 
 
+A pesar de que se puede usar un muchas áreas, para aplicaciones móviles Python esta lejos de ser una buena idea. A día de hoy, nadie pensaría en crear una app con Pyhton. Hay alternativas mucho mejores.
+
+
 ## Orientado a objetos
 
 Este es un tema relevante y muy importante, pero no es muy fácil de asimilar en primera instancia. Y tampoco de explicar en pocas palabras.
@@ -102,3 +105,32 @@ Para mejor entendimiento, es mejor ver estos 2 breves videos. De seguro, más ad
 [![POO BettaTech](http://img.youtube.com/vi/tTPeP5dVuA4/hqdefault.jpg)](https://youtu.be/tTPeP5dVuA4)
 
 [![POO Platzi](http://img.youtube.com/vi/Mi_sRAfs7TE/hqdefault.jpg)](https://youtu.be/Mi_sRAfs7TE)
+
+
+## Volvamos a Python
+
+El nombre del lenguaje de programación Python proviene de una antigua serie de comedia de la BBC llamada Monty Python's Flying Circus.
+
+Una de las características sorprendentes de Python es el hecho de que en realidad es el trabajo de una persona. Fue creado por Guido van Rossum, nacido en 1956 en Haarlem, Países Bajos.
+
+En 1999, Guido van Rossum definió sus objetivos para Python:
+
+- Un lenguaje fácil e intuitivo tan poderoso como los de los principales competidores.
+- De código abierto, para que cualquiera pueda contribuir a su desarrollo.
+- El código que es tan comprensible como el inglés simple.
+- Adecuado para tareas cotidianas, permitiendo tiempos de desarrollo cortos.
+
+
+Python es muy popular y, actualmente (al momento de crear este documento al menos), es el lenguaje de programación más usado en el mundo. Puedes ver el top ten de [PYPL PopularitY of Programming Language](https://pypl.github.io/PYPL.html) y el [TIOBE Programming Community Index](https://www.tiobe.com/tiobe-index/).
+
+
+Aunque suene extraño, existen dos tipos principales de Python, llamados Python 2 y Python 3.
+
+El desarrollo de Python 2 se ha estancado intencionalmente, aunque eso no significa que no haya actualizaciones. Por el contrario, las actualizaciones se emiten de forma regular, pero no pretenden modificar el idioma de manera significativa. Prefieren arreglar cualquier error recién descubierto y agujeros de seguridad. La ruta de desarrollo de Python 2 ya ha llegado a un callejón sin salida, pero Python 2 en sí todavía está muy vivo.
+
+Python 3 es la versión más nueva y actual del lenguaje.
+
+Estas dos versiones de Python no son compatibles entre sí. Las secuencias de comandos de Python 2 no se ejecutarán en un entorno de Python 3 y viceversa, por lo que si deseas que un intérprete de Python 3 ejecute el código Python 2 anterior, la única solución posible es volver a escribirlo o revisarlo qué partes se pueder reutilizar. Pero el migrar del 2 al 3 es demasiado difícil, consume mucho tiempo, es demasiado caro y es demasiado arriesgado migrar una aplicación Python 2 antigua a una nueva plataforma.
+
+
+En defiinitiva, si estamos partiendo a estudiar y aprender Python, la mejor opción es hacerlo con la versión 3.
