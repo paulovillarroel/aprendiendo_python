@@ -29,12 +29,10 @@ Para mantenerte al tanto de las actualizaciones, te recomiendo que le hagas un f
 ## ✅ Parte por aquí (Get started)
 
 N° | Capítulo | Link
-:----: | :----: | :----:
+:----: | :----- | :----:
 01  | Introducción | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/01_fundamentos.md)
 02  | ¿Qué es Python?  | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/02_que_es_python.md)
-
-1. [Fundamentos](https://github.com/paulovillarroel/aprendiendo_python/blob/main/01_fundamentos.md)
-2. [¿Qué es Python?](https://github.com/paulovillarroel/aprendiendo_python/blob/main/02_que_es_python.md)
+03  | Pronto... |
 
 
 ## Contribuciones
