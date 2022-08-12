@@ -16,7 +16,7 @@ Espero abordar los siguientes temas:
 - Realizar distintas automatizaciones. 
 
 
-## ¿Por qué aprender PYTHON?
+## ¿Por qué aprender Python?
 
 En mi camino profesional, tengo casi una década diseñando e implementando diversos proyectos de datos, principalmente, en el área de salud. Desde hace un par de años que soy desarrollador y he usado el lenguaje de programación R para mis proyectos de Ciencias de Datos. R me encanta!! Pero si estás pensando en desarrollar una carrera profesional en el ámbito de la ciencia de datos, no te puedes quedar solo con una tecnología. Lo realmente relevante es poder resolver problemas y para eso, vamos a necesitar conocer y utilizar diversas herramientas. Una de ellas es la programación y el usar varios lenguajes ayuda mucho a sacar lo mejor de cada uno y fortalecer las iniciativas de datos.
 
@@ -39,12 +39,15 @@ Si quieres mirar ese curso, puedes verlo en el siguiente enlace: [Bootcamp Cienc
 
 Es totalmente gratis. 
 
+Si te interesa el mundo de los datos y te llama la atención en tema de la inteligencia artificial, seguramente debes aprender varios lenguajes de programación. Una buena mezcla es saber programar en R, Python y SQL. Además, conocer algo de JavaScript en particular cómo manejar servidores con Node.JS y usar API´s, por ejemplo.
+
+
 
 ## ¿Este es un curso para aprender Python?
 
 No técnicamente. No está pensado para ser un curso como tal (a diferencia del de R que te mencioné antes). Lo que voy a hacer acá es documentar mis estudios y avances en Python. Actualmente me estoy basando en varios cursos para estudiar, pero cada persona tiene distintos tiempos de aprendizaje y requiere distintos métodos para ir asimilando las materias. Además, ten en cuenta que yo ya sé programar y que tengo varios años haciéndolo de forma profesional. Eso claramente es un plus para aprender un nuevo lenguaje y ya varios conceptos los tengo interiorizados. Sin embargo, mi idea es partir desde cero para este caso (o intentarlo, al menos), más que nada para que este repositorio le sea de utilidad a otras personas que se puedan interesar en aprender a programar y sacar adelante proyectos. Por otro lado, no quiero focalizar este aprendizaje solo en ciencia de datos ni salud, sino que quiero salir un poco de mi zona de confort y empezar a ver otros ámbitos. Python ayuda mucho a eso.
 
-Por ahora será principalmente de material escrito (como éste), pero posiblemente incluya videos (hechos por mí o de otras personas) para ayudar en algunos temas.
+Por ahora será principalmente de material escrito (como éste), pero posiblemente incluya videos (hechos por mí o de otras personas) para ayudar en algunos temas y sesiones en vivo para revisar temas.
 
 De todas formas, creo interesante y valioso el documentar mi viaje de aprendizaje en Python. Puede que a más de alguien le sirva.
 
