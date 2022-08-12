@@ -16,7 +16,7 @@ Pero...
 Ya se vienen cositas.
 
 
-➡️ Para mantenerte al tanto de las actualizaciones, te recomiendo que le hagas un fork a este repo, te lo clones y le marques la STAR ⭐ para darle amor al proyecto. Si no sabes de qué diablos te estoy hablando, no te preocupes. Los iré explicando más adelante. 
+Para mantenerte al tanto de las actualizaciones, te recomiendo que le hagas un fork a este repo, te lo clones y le marques la STAR ⭐ para darle amor al proyecto. Si no sabes de qué diablos te estoy hablando, no te preocupes. Los iré explicando más adelante. 
 
 
 ## Requisistos
@@ -27,7 +27,8 @@ Ya se vienen cositas.
 
 ## ✅ Parte por aquí (Get started)
 
-1. [Fundamentos](https://github.com/paulovillarroel/aprendiendo_python/tree/main/01_Fundamentos)
+1. [Fundamentos](https://github.com/paulovillarroel/aprendiendo_python/blob/main/01_fundamentos.md)
+2. [¿Qué es Python?](https://github.com/paulovillarroel/aprendiendo_python/blob/main/02_que_es_python.md)
 
 
 ## Contribuciones
