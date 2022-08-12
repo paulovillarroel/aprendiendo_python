@@ -51,8 +51,3 @@ De todas formas, creo interesante y valioso el documentar mi viaje de aprendizaj
 A pasarlo bien nada más!!!
 Y disfrutar el viaje!!
 
-
-## Sobre esta sección
-
-Lo primero es lo primero y en esta sección trataré conceptos bastante generales de programación e introducir paulatinamente Python.
-
