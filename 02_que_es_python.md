@@ -81,6 +81,7 @@ Algunos ejemplos en donde se ha usado Python (en mayor o menor medida) son:
 - Aplicaciones Móviles (Aarlogic C05/3, AppBackup, Pyroute)
 - Aplicaciones de Oficina (calibre, faces, Notalon, pyspread)
 - Administradores de Información Personal (BitPim, Narval, Prioritise, Task Coach, WikidPad)
+
 (Fuente: https://wiki.python.org/moin/PythonProjects)
 
 Pyhton puede ser utilizado en:
@@ -91,6 +92,7 @@ Pyhton puede ser utilizado en:
 - GUIs de Escritorio (por ejemplo, wxWidgets, Kivy, Qt)
 - Desarrollo de software (control de compilación, gestión y pruebas: Scons, Buildbot, Apache Gump, Roundup, Trac)
 - Aplicaciones empresariales (ERP y sistemas de comercio electrónico: Odoo, Tryton)
+
 (Fuente: https://www.python.org/about/apps)
 
 
