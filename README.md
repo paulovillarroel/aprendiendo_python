@@ -45,4 +45,4 @@ Buena pregunta jajaj
 
 Me llamo Paulo. Soy el fundador de [OpenSalud LAB](https://opensaludlab.org/), un laboratorio de innovación en salud de Chile, Enfermero, Data Scientist especiaizado en salud, charlista y divulgador científico, mentor en innovación y gestión pública, y me encanta enseñar programación, inteligencia de negocios y machine learning. Tengo más de 10 años de experiencia involucrado en proyectos de datos y mejora de procesos LEAN Seis Sigma.
 
-Puedes visitar [mi perfil de LinkedIn](www.linkedin.com/in/paulovillarroeltapia) si quieres saber un poco más de mí.
+Puedes visitar [mi perfil de LinkedIn](https://www.linkedin.com/in/paulovillarroeltapia) si quieres saber un poco más de mí.
