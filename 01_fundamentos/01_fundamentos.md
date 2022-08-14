@@ -57,5 +57,5 @@ A pasarlo bien nada más!!! 😉
 Y disfrutar el viaje!!
 
 
-[**<< VOLVER**](https://github.com/paulovillarroel/aprendiendo_python) | [**SIGUIENTE CAPITULO >>**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/02_que_es_python/02_que_es_python.md)
+[**<< HOME**](https://github.com/paulovillarroel/aprendiendo_python) | [**SIGUIENTE CAPITULO >>**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/02_que_es_python/02_que_es_python.md)
 
