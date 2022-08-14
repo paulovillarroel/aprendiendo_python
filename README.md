@@ -24,9 +24,9 @@ Para mantenerte al tanto de las actualizaciones, te recomiendo que le hagas un f
 
 N° | Capítulo | Contenido | Link
 :----: | :----- | :----- | :----:
-01  | Introducción | Temas generales de programación | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/01_fundamentos.md)
-02  | ¿Qué es Python? | Detalles del lenguaje | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/02_que_es_python.md)
-03  | Instalando los programas | Listado de softwares que vamos a usar | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/03_instalaciones.md)
+01 | Introducción | Temas generales de programación | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/01_fundamentos.md)
+02 | ¿Qué es Python? | Detalles del lenguaje e historia | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/02_que_es_python.md)
+03 | Instalando los programas | Listado de softwares que vamos a usar | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/03_instalaciones.md)
 
 
 ## Contribuciones
