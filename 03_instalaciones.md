@@ -20,6 +20,7 @@ En el wizard de instalación hay que tener ojo con un par de cosas:
 - Marcar la opción de agregar Pyhton al PATH
 - Elegir la opción de instalación CUSTOM
 - La ruta donde lo instales cámbiala. Es mejor poner una carpeta directamente en la raíz (en mi caso es disco local "C").
+
 Esta es la que me sale por defecto C:\Users\pvill\AppData\Local\Programs\Python\Python310
 Es mejor poner esta C:\Python310
 
