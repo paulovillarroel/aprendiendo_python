@@ -138,4 +138,4 @@ Estas dos versiones de Python no son compatibles entre sí. Las secuencias de co
 En defiinitiva, si estamos partiendo a estudiar y aprender Python, la mejor opción es hacerlo con la versión 3. Y es la que usaré.
 
 
-[**<< VOLVER**](https://github.com/paulovillarroel/aprendiendo_python)
+[**<< VOLVER**](https://github.com/paulovillarroel/aprendiendo_python) | [SIGUIENTE CAPITULO >>](https://github.com/paulovillarroel/aprendiendo_python/blob/main/02_que_es_python/03_intalaciones.md)
