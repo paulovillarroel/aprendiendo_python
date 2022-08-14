@@ -152,7 +152,7 @@ Si estas en una computador (creo no haberlo mencionado, pero escribir código de
 <img src="img/aprendiendo_github.png" alt="GitHub" title="Configurando GitHub" />
 
 
-Se puedes hacer muchas otras cosas, como **clonar** el respositorio que es hacerte una copia completa en tu computador de todo, o un **fork** que copiarte un repositorio en tu propio GitHub (en la nube). Pero esas cosas las veremos un poco más adelante.
+Se pueden hacer muchas otras cosas en GitHub, como **clonar** el respositorio que es hacerte una copia completa en tu computador de todo, o un **fork** que es copiarte un repositorio en tu propio GitHub (en la nube). Pero esas cosas las veremos un poco más adelante.
 
 
 Por ahora, coon todo ésto, la verdad, ya estamos más que bien para empezar a tirar las primeras líneas de código en Python.
