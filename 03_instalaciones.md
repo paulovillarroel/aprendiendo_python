@@ -119,7 +119,25 @@ Te debería salir una pantalla similar a esta en el Visual Studio Code:
 Con eso, ya debería estar todo ok!!
 
 
-## Algunas cosas importantes
+Otra extensión de VSC es la Jupyter Notebook.
+Esta extensión es interesante, ya que nos va a permitir usar Jupyter dentro de Visual Studio Code. 
+
+Puedes averiguar más de Jupyter en su web oficial https://jupyter.org/
+
+Este es, básicamente, una forma muy simple de crear un archivo en donde se mezclan pedazos de código con texto e imágenes (Markdown). 
+
+Este es un ejemplo que tienen en su web https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb con un notebook.
+Es parecido a un [Google Colab](https://colab.research.google.com/).
+
+Para instalarlo, es similar a lo que hicimos con la extensión de Python, solo que ahora hay que buscar la de Jupyter (Microsoft).
+Pero esta vez,lo haremos directamente desde el Visual Studio Code. Para eso, debes hacer clic en el ícono de la izquierda como una cajita de 4 cuadrados. Poner en el buscador "jupyter" (sin comillas) y hacer clic en el botón instalar. En la imagen no me sale eso, pues yo ya lo tengo instalado. Pero te saldrá algo similar.
+
+<img src="img/jupyter_extension.png" alt="Python" title="Instalando extension Jupyter VSC" />
+
+Y eso es todo.
+
+
+## Algunas otras cosas importantes
 
 Hasta este momento ya deberiamos tener instalado correctamente Python y Visual Studio Code con su extensión respectiva.
 
@@ -157,4 +175,4 @@ Si estas en una computador (creo no haberlo mencionado, pero escribir código de
 Se pueden hacer muchas otras cosas en GitHub, como **clonar** el respositorio que es hacerte una copia completa en tu computador de todo, o un **fork** que es copiarte un repositorio en tu propio GitHub (en la nube). Pero esas cosas las veremos un poco más adelante.
 
 
-Por ahora, coon todo ésto, la verdad, ya estamos más que bien para empezar a tirar las primeras líneas de código en Python.
+Por ahora, con todo ésto, la verdad, ya estamos más que bien para empezar a tirar las primeras líneas de código en Python.
