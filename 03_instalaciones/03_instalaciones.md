@@ -136,6 +136,8 @@ Pero esta vez,lo haremos directamente desde el Visual Studio Code. Para eso, deb
 
 Y eso es todo.
 
+Por ahora no profundizaré más en el uso de los Jupyter Notebooks, pero son realmente útiles. Sigue atento/a las publicaciones, pues haremos varias cosas con ellos. 
+
 
 ## Algunas otras cosas importantes
 
