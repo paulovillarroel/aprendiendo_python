@@ -36,7 +36,7 @@ Después las otras cosas que salen dejarlas por defecto, darle a SI a los permis
 Luego que se termine todo el proceso, ya deberías tener Python instalado en tu computador.
 
 
-### ¿Cómo saber si ya tengo Pyhton instalado correctamente?
+### ¿Cómo saber si ya tengo Python instalado correctamente?
 
 Para saber eso, necesitamos usar la consola de Windows o PowerShell. También se llama "Símbolo del sistema". Igula luego instalaemos una versión más linda y funcional de esta consola. por ahora usa la que tienen nada más. En Windows 11 ya viene instaado por defecto PowerShell, en las versiones anteriores no viene y está la versión más clásica el terminal. 
 
