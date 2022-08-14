@@ -115,3 +115,44 @@ Te debería salir una pantalla similar a esta en el Visual Studio Code:
 <img src="img/extension_python4.png" alt="Python" title="Instalando extension Python VSC" />
 
 Con eso, ya debería estar todo ok!!
+
+
+## Algunas cosas importantes
+
+Hasta este momento ya deberiamos tener instalado correctamente Python y Visual Studio Code con su extensión respectiva.
+
+Pero vamos a usar otras cosas que son importantes, como configurar una cuenta de GitHub y tener instalado GIT.
+
+¿Qué es GIT?
+Ya lo veremos pronto...
+Por ahora quédate con que es una forma de controlar las versiones de tus archivos.
+
+Veamos algo de GitHub.
+
+¿Qué es GitHub?
+Es difícil resumirlo, porque ha crecido mucho en funcionalides durante el último tiempo, pero podemos pensar en GitHub como un Google Drive en donde podemos poner nuestro código y permitir que otras personas puedan colaborar en el desarrollo de tus proyectos.
+
+De hecho, no sé si te habías dado cuenta, pero lo que estás leyendo ahora mismo está en GitHub.
+
+Para usarlo, lo primero es ir a su web oficial en https://github.com/ 
+
+<img src="img/github.png" alt="GitHub" title="Configurando GitHub" />
+
+Debes crearte una cuenta, para lo cual debes darle clic al botón SIGN UP.
+Luego, ingresar tu email, verificarlo (eso es importante, ya que algunos no lo hacen y no saben por qué no les funciona) y seguir los pasos que se te piden. No es nada del otro mundo. Es como crear una cuenta cualquiera.
+
+Una vez ya tengas creada tu cuenta, se pueden hacer varias cosas.
+
+Lo primero es....
+
+Anda al repositorio (así se llaman en GitHub los espacios en donde están guardados los códigos) de este proyecto en https://github.com/paulovillarroel/aprendiendo_python
+
+Si estas en una computador (creo no haberlo mencionado, pero escribir código desde un teléfono o tablet es algo muy poco recomendable, no lo hagas la verdad), observa la sección de arriba a la derecha, hay una estrellita ⭐. Dale clic y se marcará en amarillo. Esto es como darle like en las redes sociales, pero aquí es de código. O algo así. Eso ayuda a dar visbilidad a este proyecto y a que llegue a más personas. 
+
+<img src="img/aprendiendo_github.png" alt="GitHub" title="Configurando GitHub" />
+
+
+Se puedes hacer muchas otras cosas, como **clonar** el respositorio que es hacerte una copia completa en tu computador de todo, o un **fork** que copiarte un repositorio en tu propio GitHub (en la nube). Pero esas cosas las veremos un poco más adelante.
+
+
+Por ahora, coon todo ésto, la verdad, ya estamos más que bien para empezar a tirar las primeras líneas de código en Python.
