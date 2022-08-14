@@ -13,7 +13,7 @@ Para instalar Python, hay que ir a su web oficial https://www.python.org/
 
 En la portada de la web, hay que ir a la sección **Downloads**. Se mostrará una serie de links para descargarlo, pero elige la que te pone por defecto (la que aparece en el rectángulo amarillo), que es la última versión disponibe para el sistema operativo desde dond estás ingresando.
 
-<img src="img/download_python.png" alt="Python" title="Descargando Python" />
+<img src="..\img\download_python.png" alt="Python" title="Descargando Python" />
 
 En el wizard de instalación hay que tener ojo con un par de cosas:
 
