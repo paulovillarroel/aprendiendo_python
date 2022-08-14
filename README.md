@@ -24,9 +24,9 @@ Para mantenerte al tanto de las actualizaciones, te recomiendo que le hagas un f
 
 N° | Capítulo | Contenido | Link
 :----: | :----- | :----- | :----:
-01 | Introducción | Revisamos varios temas generales de este proyecto | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/01_fundamentos.md)
-02 | ¿Qué es Python? | Hablamos del lenguaje Python, su historia, sus ventajas y tipos de usos | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/02_que_es_python.md)
-03 | Instalando los programas | Vemos cómo instalar Python, el entorno en donde vamos a escribir código (Visual Studio Code) y configurar GitHub | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/03_instalaciones.md)
+01 | Introducción | Revisamos varios temas generales de este proyecto | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/01_fundamentos/01_fundamentos.md)
+02 | ¿Qué es Python? | Hablamos del lenguaje Python, su historia, sus ventajas y tipos de usos | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/02_que_es_python/02_que_es_python.md)
+03 | Instalando los programas | Vemos cómo instalar Python, el entorno en donde vamos a escribir código (Visual Studio Code) y configurar GitHub | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/03_instalaciones/03_instalaciones.md)
 04 | Pronto... | | 
 
 
