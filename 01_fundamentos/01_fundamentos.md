@@ -45,13 +45,14 @@ Si te interesa el mundo de los datos y te llama la atención en tema de la intel
 
 ## ¿Este es un curso para aprender Python?
 
-No técnicamente. No está pensado para ser un curso como tal (a diferencia del de R que te mencioné antes). Lo que voy a hacer acá es documentar mis estudios y avances en Python. Actualmente me estoy basando en varios cursos para estudiar, pero cada persona tiene distintos tiempos de aprendizaje y requiere distintos métodos para ir asimilando las materias. Además, ten en cuenta que yo ya sé programar y que tengo varios años haciéndolo de forma profesional. Eso claramente es un plus para aprender un nuevo lenguaje y ya varios conceptos los tengo interiorizados. Sin embargo, mi idea es partir desde cero para este caso (o intentarlo, al menos), más que nada para que este repositorio le sea de utilidad a otras personas que se puedan interesar en aprender a programar y sacar adelante proyectos. Por otro lado, no quiero focalizar este aprendizaje solo en ciencia de datos ni salud, sino que quiero salir un poco de mi zona de confort y empezar a ver otros ámbitos. Python ayuda mucho a eso.
+No técnicamente. No está pensado para ser un curso como tal (a diferencia del de R que te mencioné antes). Lo que voy a hacer acá es documentar mis estudios y avances en Python. Actualmente me estoy basando en varios cursos para estudiar, pero cada persona tiene distintos tiempos de aprendizaje y requiere distintos métodos para ir asimilando las materias. Además, ten en cuenta que yo ya sé programar y que tengo varios años haciéndolo de forma profesional. Eso claramente es un plus para aprender un nuevo lenguaje y ya varios conceptos los tengo interiorizados. Sin embargo, mi idea es partir desde cero para este caso (o intentarlo, al menos), más que nada para que este repositorio le sea de utilidad a otras personas que se puedan interesar en aprender a programar y sacar adelante proyectos. Por otro lado, no quiero focalizar este aprendizaje solo en ciencia de datos ni salud, sino que quiero salir un poco de mi zona de confort y empezar a ver otros ámbitos. Python ayuda mucho a eso. Pero reconoszco que mi sesgo profesional va por esa línea, poer lo que más adelante empezaré a abordar el análisis de datos e inteligencia artificial con Python para complementar mis conocimientos actuales.
 
-Por ahora será principalmente de material escrito (como éste), pero posiblemente incluya videos (hechos por mí o de otras personas) para ayudar en algunos temas y sesiones en vivo para revisar temas.
+Por ahora será principalmente de material escrito (como éste), pero posiblemente incluya videos (hechos por mí o de otras personas) para ayudar en algunos temas y sesiones en vivo para revisar temas. Es una buena técnca de aprendizaje esa.
 
-De todas formas, creo interesante y valioso el documentar mi viaje de aprendizaje en Python. Puede que a más de alguien le sirva.
+De todas formas, creo interesante y valioso el documentar mi viaje de aprendizaje en Python. Puede que a más de alguien le sirva como empujón para empezar en este mundo.
 
-A pasarlo bien nada más!!!
+
+A pasarlo bien nada más!!! 😉
 Y disfrutar el viaje!!
 
 
