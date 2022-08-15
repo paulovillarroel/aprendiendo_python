@@ -1,6 +1,8 @@
-# Usanndo la consola
+# Usando la consola
 
-Con ustedes, la consola!!!
+Con ustedes, la consola!!
+
+Charán!! 🥳
 
 <img src="../img/console.png" alt="Python" title="Usando la consola" />
 
