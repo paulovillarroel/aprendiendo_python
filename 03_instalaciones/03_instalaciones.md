@@ -180,4 +180,4 @@ Se pueden hacer muchas otras cosas en GitHub, como **clonar** el respositorio qu
 Por ahora, con todo ésto, la verdad, ya estamos más que bien para empezar a tirar las primeras líneas de código en Python.
 
 
-[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/02_que_es_python/02_que_es_python.md)
+[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/02_que_es_python/02_que_es_python.md) | [**SIGUIENTE CAPITULO >>**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/04_usando_la_consola/04_usando_la_consola.md)
