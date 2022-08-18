@@ -143,7 +143,7 @@ Acá se crean 2 variables (x, y) y a cada una se le asigna un valor (5 y 4.7 res
 
 Pues arroja un error: name 'y' is not defined.
 
-Bueno, ya sabes porqué pasó eso.
+Bueno, ya sabes porqué pasó eso. No definimos el valor de la variable y antes. 
 
 
 Por ahora lo voy a dejar hasta acá... Pronto actualizaré este documento, ya que nos quedan muchos tipos de datos y apenas llevamos un par.
