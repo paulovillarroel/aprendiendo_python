@@ -28,7 +28,7 @@ N° | Capítulo | Contenido | Link
 02 | ¿Qué es Python? | Hablamos del lenguaje Python, su historia, sus ventajas y tipos de usos | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/02_que_es_python/02_que_es_python.md)
 03 | Instalando los programas | Vemos cómo instalar Python, el entorno en donde vamos a escribir código (Visual Studio Code) y configurar GitHub | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/03_instalaciones/03_instalaciones.md)
 04 | Usando la consola | Acá comenzamos a usar la consola y revisamos la función print() y sus argumentos | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/04_usando_la_consola/04_usando_la_consola.md)
-05 | Pronto... | | 
+05 | Tipos de datos| Ojo!! Empezamo con cosas más serias jajaja Revisamos los tipos de datos y sus operaciones | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/05_tipos_datos/05_tipo_datos.md)
 
 
 ## Contribuciones
