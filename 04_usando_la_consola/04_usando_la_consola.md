@@ -201,4 +201,4 @@ Hasta ahora, ya vamos avanzando muy bien!!
 
 
 
-[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/03_instalaciones/03_instalaciones.md)
+[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/03_instalaciones/03_instalaciones.md) | [**SIGUIENTE CAPITULO >>**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/05_tipos_datos/05_tipos_datos.md)

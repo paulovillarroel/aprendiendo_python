@@ -428,3 +428,5 @@ Acá hay bastante por revisar con los strings. El conocerlos te puede ser de gra
 Hasta acá vamos a dejar este capítulo que se ha hecho bastante largo la verdad y es bastante información. Revísao con calma, practica y mueve los deditos en tu computador para ir ejercitando los ejemplos. 
 
 Hay varios más tipos de datos, pero los iremos reviando en la medida que lo necesitemos próximamente. 
+
+[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/04_usando_la_consola/04_usando_la_consola.md)
