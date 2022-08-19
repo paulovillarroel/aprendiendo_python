@@ -429,4 +429,4 @@ Hasta acá vamos a dejar este capítulo que se ha hecho bastante largo la verdad
 
 Hay varios más tipos de datos, pero los iremos reviando en la medida que lo necesitemos próximamente. 
 
-[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/04_usando_la_consola/04_usando_la_consola.md)
+[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/04_usando_la_consola/04_usando_la_consola.md) | [**SIGUIENTE CAPITULO >>**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/06_variables_funciones/06_variables_funciones.md)
