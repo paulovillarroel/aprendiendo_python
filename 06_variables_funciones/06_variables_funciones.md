@@ -67,6 +67,12 @@ Las palabras reservadas (o claves) son:
 ['False', 'None', 'True', 'and', 'as', 'assert', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
 ```
 
+Puedes buscarlas usando la consola. Para ello, debes colocar help('keywords')
+
+<img src="../img/help_keywords.png" alt="Python" title="Palabras reservadas" />
+
+
+
 Ahora, podrías "burlar" este error de sintaxis, realizando un pequeño cambio en el nombre de la variable, por ejemplo, agregando una letra mayúscula. Recuerda que para Python, las mayúsculas y las minúsculas se tratan como valores distintos.
 
 ```
@@ -189,6 +195,29 @@ j = j - (i + var + rem) ⇒ j -= (i + var + rem)
 
 x = x ** 2 ⇒ x **= 2
 ```
+
+Otra posibilidad, es crear varias variables en solo 1 línea de código. Esto no es muy recomendable, puede ser confuso y poco mantenible, pero en determinadas situaciones pudiera ser útil.
+
+Por ejemplo:
+
+```
+>>> first_name, last_name, country, age, is_married = 'Paulo', 'Villarroel', 'Chile', 40, False
+>>> print(first_name, last_name, country, age, is_married)
+Paulo Villarroel Chile 40 False
+>>> print(first_name)
+Paulo
+>>> print(last_name)
+Villarroel
+>>> print(country)
+Chile
+>>> print(age)
+40
+>>> print(is_married)
+False
+>>>
+```
+
+Ya veremos algunas variaciones o cosas que podemos hacer con esta forma de crear variables. 
 
 
 Unas palabras sobre la mutabilidad y la inmutabilidad...
