@@ -182,7 +182,12 @@ Python ofrece una manera más corta de escribir operaciones como estas, lo cual 
 x *= 2
 ```
 
-Este operador se puede usar con cualquiera de los operadores aritméticos que vimos en el capítulo anterior. Por ejemplo:
+Este operador se puede usar con cualquiera de los operadores aritméticos que vimos en el capítulo anterior. Acá algunos de ellos:
+
+<img src="../img/operators.png" alt="Python" title="Operadores abreviados" />
+
+
+Revisa estos ejemplos. Dale una vuelta, aplícalos en tu consola y ve que resultados obtienes:
 
 ```
 i = i + 2 * j ⇒ i += 2 * j
@@ -195,6 +200,7 @@ j = j - (i + var + rem) ⇒ j -= (i + var + rem)
 
 x = x ** 2 ⇒ x **= 2
 ```
+
 
 Otra posibilidad, es crear varias variables en solo 1 línea de código. Esto no es muy recomendable, puede ser confuso y poco mantenible, pero en determinadas situaciones pudiera ser útil.
 
