@@ -197,7 +197,7 @@ Recuerda que las variables son un nombre y un valor asignado. Pero depende del t
 
 Este cuadro te ayudará a saber qué tipos de datos son mutables y cuales no:
 
-<img src="../img/mutable_immutable.png" alt="Python" title="Mutabilidad" />
+<img src="../img/mutable_immutable.png" alt="Python" title="Mutabilidad" width="400" height="450" />
 
 
 ## Funciones integradas o built-in
@@ -207,7 +207,7 @@ Estas funciones permiten realizar diversas operaciones muy útiles en programaci
 
 Las funciones integradas son (en orden alfabético):
 
-<img src="../img/builtin_functions.png" alt="Python" title="Funciones Built-In" width="400" height="450"/>
+<img src="../img/builtin_functions.png" alt="Python" title="Funciones Built-In" />
 
 Puedes revisar más detalles en la [documentación oficial de Python](https://docs.python.org/3.9/library/functions.html). 
 
