@@ -207,7 +207,7 @@ Estas funciones permiten realizar diversas operaciones muy útiles en programaci
 
 Las funciones integradas son (en orden alfabético):
 
-<img src="../img/builtin_functions.png" alt="Python" title="Funciones Built-In" />
+<img src="../img/builtin_functions.png" alt="Python" title="Funciones Built-In" width="400" height="450"/>
 
 Puedes revisar más detalles en la [documentación oficial de Python](https://docs.python.org/3.9/library/functions.html). 
 
