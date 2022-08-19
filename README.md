@@ -20,7 +20,7 @@ Para mantenerte al tanto de las actualizaciones, te recomiendo que le hagas un f
 - Paciencia (en espacial si nunca has tocado una línea de código)
 
 
-## ✅ Parte por aquí (Get started)
+## ✅ Parte por aquí (Getting Started)
 
 N° | Capítulo | Contenido | Link
 :----: | :----- | :----- | :----:
@@ -29,6 +29,7 @@ N° | Capítulo | Contenido | Link
 03 | Instalando los programas | Vemos cómo instalar Python, el entorno en donde vamos a escribir código (Visual Studio Code) y configurar GitHub | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/03_instalaciones/03_instalaciones.md)
 04 | Usando la consola | Acá comenzamos a usar la consola y revisamos la función print() y sus argumentos | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/04_usando_la_consola/04_usando_la_consola.md)
 05 | Tipos de datos| Ojo!! Empezamos con cosas más serias jajaja Revisamos los tipos de datos y sus operaciones | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/05_tipos_datos/05_tipos_datos.md)
+06 | Variables y funciones | Todo es un objeto en Python!! Acá entenderás porqué se dice eso y veremos detalles de las variables y funciones integradas | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/06_variables_funciones/06_variables_funciones.md)
 
 
 Pronto más...
