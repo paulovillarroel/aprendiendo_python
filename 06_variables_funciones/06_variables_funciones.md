@@ -197,7 +197,7 @@ Recuerda que las variables son un nombre y un valor asignado. Pero depende del t
 
 Este cuadro te ayudará a saber qué tipos de datos son mutables y cuales no:
 
-<img src="../img/mutable_immutable.png" alt="Python" title="Mutabilidad" width="400" height="450" />
+<img src="../img/mutable_immutable.png" alt="Python" title="Mutabilidad" width="300" height="350" />
 
 
 ## Funciones integradas o built-in
