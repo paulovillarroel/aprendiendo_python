@@ -30,7 +30,7 @@ N° | Capítulo | Contenido | Link
 04 | Usando la consola | Acá comenzamos a usar la consola y revisamos la función print() y sus argumentos | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/04_usando_la_consola/04_usando_la_consola.md)
 05 | Tipos de datos| Ojo!! Empezamos con cosas más serias jajaja Revisamos los tipos de datos y sus operaciones | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/05_tipos_datos/05_tipos_datos.md)
 06 | Variables y funciones | Todo es un objeto en Python!! Acá entenderás porqué se dice eso y veremos detalles de las variables y funciones integradas | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/06_variables_funciones/06_variables_funciones.md)
-07 | Operadores | Pronto... | 
+07 | Operadores | Revisamos en profundidad los tipos de operadores de Python | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/07_operadores/07_operadores.md)
 
 
 Pronto más...
