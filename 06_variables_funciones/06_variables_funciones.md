@@ -255,5 +255,5 @@ Para complementar los que hemos visto en este capítulo y el anterior, puedes re
 
 
 
-[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/05_tipos_datos/05_tipos_datos.md) 
+[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/05_tipos_datos/05_tipos_datos.md) | [**SIGUIENTE CAPITULO >>**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/07_operadores/07_operadores.md)
 
