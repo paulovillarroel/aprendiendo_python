@@ -186,7 +186,7 @@ Fíjate en el siguiente ejemplo:
 7.6
 ```
 
-Esta característica es importante de recordar al momento de diseñar tus programas, te puede dar un error o mutar una variable (cambiar el tipo de variable) sin darte cuenta y generar un resultado no esperado. Perdón que hable nuevamente de las variables, ya las veremos en detención, y en Python todo es un objeto (o una variable). Ya lo veremos.
+Esta característica es importante de recordar al momento de diseñar tus programas, te puede dar un error o mutar una variable (cambiar el tipo de variable) sin darte cuenta y generar un resultado no esperado. Perdón que hable nuevamente de las variables, ya las veremos en detención.
 
 
 Volvamos un poco a nuestra querida consola...
@@ -238,7 +238,7 @@ True
 False
 ```
 
-Fíjate que para comprara si 2 dato son iguales se usa un doble signo igual (==). Esto es para diferenciarlo de cuando se usa solo 1 signo igual (=) que es para asignar un valor a una variable u objeto. 
+Fíjate que para comprara si 2 dato son iguales se usa un doble signo igual (==). Esto es para diferenciarlo de cuando se usa solo 1 signo igual (=) que es para asignar un valor a una variable. 
 
 Así como podemos comparar si 2 valores coinciden, podemos analizar si no coinciden. Para eso usamos !=
 
@@ -312,7 +312,7 @@ Podemos crear una lista usando estas 2 sintaxis:
 
 Usando la función interna de Python list() y también sin usar esa función, pero encerrando los datos entre paréntesis cuadrados []. Si solo se usa eso, se crearán listas vacías (sin elementos). Mira el ejemplo siguiente, usamos una función nueva: *len()*
 
-len() permite evaluar la longitud (lenght) del objeto que le pasas. En este caso, como le estamos pasando una lista vacía, nos imprime cero (0).
+len() permite evaluar la longitud (lenght) de la variable que le pasas. En este caso, como le estamos pasando una lista vacía, nos imprime cero (0).
 
 ```
 >>> empty_list = []
@@ -350,7 +350,7 @@ person = ("Paulo", 40, "Chile")
 
 ### Rangos
 
-Los objetos de tipo *range* representan una secuencia inmutable de números y se usan habitualmente para ejecutar un bucle *for* un número determinado de veces. esto básicamente generar una serie de números secuenciales o en un orden estricto, desde un inicio (start) hasta un fin (stop)
+Los datos de tipo *range* representan una secuencia inmutable de números y se usan habitualmente para ejecutar un bucle *for* un número determinado de veces. esto básicamente generar una serie de números secuenciales o en un orden estricto, desde un inicio (start) hasta un fin (stop)
 
 Ok. Esto suena extraño, pero no lo es. Con un ejemplo debería quedar más claro.
 
@@ -370,7 +370,7 @@ range(0, 10)
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
 
-Nota que para imprimir el resultado del range es necesario aplicarle la función list(). Puedes asignar un objeto (o variable) a ese rango. En el ejemplo se está generando una serie secuencial de 10 valores. Por defecto, el primer valor es el 0 (o índice cero) y luego los siguientes 9 números enteros, ya que el 10 se considera como el *stop*. Considera que éste número no se consigna en el objeto, solo se llega hasta el 9. 
+Nota que para imprimir el resultado del range es necesario aplicarle la función list(). Puedes asignar una variable a ese rango. En el ejemplo se está generando una serie secuencial de 10 valores. Por defecto, el primer valor es el 0 (o índice cero) y luego los siguientes 9 números enteros, ya que el 10 se considera como el *stop*. Considera que éste número no se consigna en el resultado, solo se llega hasta el 9. 
 
 
 Ahora en el siguiente ejemplo, partimos del 3 (start) y paramos (stop) en el 10:

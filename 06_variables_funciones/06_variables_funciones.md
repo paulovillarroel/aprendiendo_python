@@ -5,7 +5,7 @@ En este capítulo abordaremos un poco más en profundidad algo de lo que ya hemo
 También, aprovecharé de revisar las funciones integradas con la que ya cuenta Python, y de las cuales ya hemos hablado antes.
 
 
-Las variables son fundamentales ya que permiten definir nombres para los valores que tenemos en memoria y que vamos a usar en nuestro programa. Es ponerle un etiqueta para luego poder trabajar con ellas. Acá puede que use la palabra variable u objeto de forma similar e indistinta.
+Las variables son fundamentales ya que permiten definir nombres para los valores que tenemos en memoria y que vamos a usar en nuestro programa. Es ponerle un etiqueta para luego poder trabajar con ellas.
 
 Pero, ¿Qué es una variable?
 
