@@ -3,22 +3,28 @@
 [![jhc twitter](https://img.shields.io/badge/Twitter-@chazkon-00aced.svg?style=flat&logo=twitter)](https://twitter.com/chazkon)
 
 # 🐍 Aprendiendo Python
+## Ruta de aprendizaje desde cero
+
 
 Hola!!! Bienvenido/a 😉
 
-En este repositorio iré documentando mis estudios y aprendizajes de Python. Básicamente será como mi bloc de notas, en donde estaré publicando tips, consejos y materias relacionadas a este lenguaje. 
+En este repositorio iré documentando mis estudios y aprendizajes de Python. Básicamente será como mi bloc de notas, en donde estaré publicando tips, consejos, contenidos y materiales relacionadas a este lenguaje. 
 
-Trataré de hacerlo de una forma que luego sirva como material de estudio o referencia para quien quiera empezar a aprender Python o para mi mismo en un futuro.
+Trataré de hacerlo de una forma que luego sirva como material de estudio o referencia para quien quiera empezar a aprender Python o para mi mismo en un futuro. Por lo cual trataré de ser muy explicativo, de dar muchos ejemplos y de mantener una curva de dificultad baja.
 
-Para mantenerte al tanto de las actualizaciones, te recomiendo que le hagas un fork a este repo, te lo clones y le marques la STAR ⭐ (arriba a la derecha) para darle amor al proyecto ❤️. Si no sabes de qué diablos te estoy hablando, no te preocupes, esos conceptos y muchos más, los iré explicando a lo largo de este proyecto.
+Para mantenerte al tanto de las actualizaciones y materiales que vaya publicando, te recomiendo que guardes esta página en tus favoritos y que le hagas un fork a este repo, te lo clones y le marques la STAR ⭐ (de arriba a la derecha) para darle amor al proyecto ❤️ y que tenga más visibilidad, y así serle de utilidad a más personas. 
+
+Si no sabes de qué diablos te estoy hablando con eso de fork y clone, no te preocupes, esos conceptos y muchos más, los iré explicando a lo largo de este proyecto.
 
 
 ## Requisistos
 
 - Tener computador e internet
 - Muchas ganas de aprender
-- Paciencia (en espacial si nunca has tocado una línea de código)
+- Paciencia (en especial si nunca haz tocado una línea de código)
+- Constancia
 
+-------
 
 ## ✅ Parte por aquí (Getting Started)
 
@@ -35,7 +41,7 @@ N° | Capítulo | Contenido | Link
 09 | Strings | Revisaremos más en profundidad el uso y aplicaciones de las cadenas de texto (strings) | Pronto...
 
 
-
+-------
 
 ## Contribuciones
 
@@ -46,7 +52,7 @@ Puedes hacer una PR o crear un [issue](https://github.com/paulovillarroel/aprend
 
 No lo sé. Iré publicando en la medida que vaya estudiando cosas y me de el tiempo de subirlos. Así que puede ser varias veces al día o de pronto no tan seguido. Pero seguro que semana a semana va a haber nuevo material disponible. Y conociéndome, puede que haya días que me vuelva un poco loco subiendo cosas 🤣
 
-Te recomiendo que visites este sitio, al menos, 2 veces por semana para seguir el contenido con buen ritmo.
+Te recomiendo que visites este sitio, al menos, 2 a 3 veces por semana para seguir el contenido con buen ritmo.
 
 
 ## ¿Quién soy yo?
