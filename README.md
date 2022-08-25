@@ -38,7 +38,7 @@ N° | Capítulo | Contenido | Link
 06 | Variables y funciones | Todo es un objeto en Python!! Acá entenderás porqué se dice eso y veremos detalles de las variables y funciones integradas | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/06_variables_funciones/06_variables_funciones.md)
 07 | Operadores | Revisamos en profundidad los tipos de operadores de Python | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/07_operadores/07_operadores.md)
 08 | Comentarios | Vemos qué es comentar el código y algunas buenas prácticas en su uso | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/08_comentarios/08_comentarios.md)
-09 | Strings | Revisaremos más en profundidad el uso y aplicaciones de las cadenas de texto (strings) | Pronto...
+09 | Strings | Revisamos más en profundidad el uso y aplicaciones de las cadenas de texto (strings) | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/09_string/09_strings.md)
 
 
 -------
