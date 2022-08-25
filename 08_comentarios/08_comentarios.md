@@ -50,4 +50,4 @@ y = 2
 print(x + y)
 ```
 
-[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/07_operadores/07_operadores.md) |
+[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/07_operadores/07_operadores.md) | [**SIGUIENTE CAPITULO >>**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/09_strings/09_strings.md)
