@@ -40,7 +40,7 @@ N° | Capítulo | Contenido | Link
 08 | Comentarios | Vemos qué es comentar el código y algunas buenas prácticas en su uso | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/08_comentarios/08_comentarios.md)
 09 | Strings | Revisamos más en profundidad el uso y aplicaciones de las cadenas de texto (strings) | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/09_strings/09_strings.md)
 10 | Zodiaco chino | Realizamos un entretenido programa que permite saber el zodiaco chino al que perteneces, según tu año de nacimiento | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/10_zodiaco_chino/10_zodiaco_chino.md)
-11 | Listas ! Seguimos adelante y acá profundizamos en las listas | Pronto...
+11 | Listas | Seguimos adelante y acá profundizamos en las listas | Pronto...
 
 
 -------
