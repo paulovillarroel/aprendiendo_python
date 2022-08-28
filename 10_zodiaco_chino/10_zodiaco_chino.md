@@ -379,7 +379,7 @@ chinese_zodiac(year)
 <img src="../img/chinese_zodiac2.png" alt="Python" title="Zodiaco chino" />
 
 
-El código que hemos realizado para el zodiaco chino lo puedes encontrar en un archivo .py (que es la extensión de los archivos de Python).
+El código que hemos realizado para el zodiaco chino lo puedes encontrar en un [archivo .py](https://github.com/paulovillarroel/aprendiendo_python/blob/main/10_zodiaco_chino/chinese_zodiac.py) (que es la extensión de los archivos de Python).
 
 
 
