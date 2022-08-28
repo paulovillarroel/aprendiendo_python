@@ -303,4 +303,4 @@ Estos son algunos de los metodos. La verdad, es que son bastantes. Lo mejor es i
 
 Puedes mirar más detalles en [este tutorial](https://www.geeksforgeeks.org/python-string/). 
 
-[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/08_comentarios/08_comentarios.md) |
+[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/08_comentarios/08_comentarios.md) | [**SIGUIENTE CAPITULO >>**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/10_zodiaco_chino/10_zodiaco_chino.md)
