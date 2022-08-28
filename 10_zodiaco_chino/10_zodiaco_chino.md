@@ -343,15 +343,15 @@ Esta función espera que el usuario ingrese un dato y luego se ejecuta.
 
 Vamos a asignar el valor ingresado por el usuario a la variable year:
 
-``` 
+```
 year = int(input("Ingresa el año de nacimiento: "))
-``` 
+```
 
 Lo debemos parsear a un integer, pues input() nos guarda un dato de tipo string. Y un string no se lo podemos pasar a nuestra función, no podemos realizar los cálculos aritméticos a una cadena de texto.
 
 20. Nos queda...
 
-``` 
+```
 year = int(input("Ingresa el año de nacimiento: "))
 
 def chinese_zodiac(year:int):
@@ -366,13 +366,13 @@ def chinese_zodiac(year:int):
         animal = animals[int(sexagenary_year % 12)]
 
         print(f"Año: {year} / Zodiaco: {animal} de {element}")
-``` 
+```
 
 Y para invocar la función usamos:
 
-``` 
+```
 chinese_zodiac(year)
-``` 
+```
 
 21. Si copias y pegas todo el código en el playground, puedes probar cómo funciona.
 
