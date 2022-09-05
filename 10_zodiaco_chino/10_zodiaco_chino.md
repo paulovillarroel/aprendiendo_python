@@ -388,4 +388,4 @@ Intenta probar este código en el editor de texto Visual Studio Code.
 Anda probando cosas. Recuerda que la única forma de aprender, es probar, practicar harto y mover las manitas jajaja.
 
 
-[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/09_strings/09_strings.md) |
+[**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/09_strings/09_strings.md) | [**SIGUIENTE CAPITULO >>**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/11_listas/11_listas.md)
