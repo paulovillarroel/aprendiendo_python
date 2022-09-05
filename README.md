@@ -41,6 +41,7 @@ N° | Capítulo | Contenido | Link
 09 | Strings | Revisamos más en profundidad el uso y aplicaciones de las cadenas de texto (strings) | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/09_strings/09_strings.md)
 10 | Zodiaco chino | Realizamos un entretenido programa que permite saber el zodiaco chino al que perteneces, según tu año de nacimiento | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/10_zodiaco_chino/10_zodiaco_chino.md)
 11 | Listas | Seguimos adelante y acá profundizamos bastante en el manejo y uso de las listas | [Ver](https://github.com/paulovillarroel/aprendiendo_python/blob/main/11_listas/11_listas.md)
+12 | Tuplas |  | Pronto..
 
 
 -------
